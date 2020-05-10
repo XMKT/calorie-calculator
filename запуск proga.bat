@@ -1,0 +1,2 @@
+python proga.py
+pause
